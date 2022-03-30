@@ -2,7 +2,7 @@
 <html lang="en-US">
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<title>Log In &lsaquo; 人形电脑天使心 &#8212; WordPress</title>
+	<title>Log In &lsaquo; ChatLearning &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="stylesheet" id="dashicons-css" href="https://fuyon.github.io/123456/wp-includes/css/dashicons.min.css?ver=5.9.2" type="text/css" media="all">
@@ -51,7 +51,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://fuyon.github.io/123456/">&larr; Go to 人形电脑天使心</a>		</p>
+			<a href="https://fuyon.github.io/123456/">&larr; Go to ChatLearning</a>		</p>
 			</div>
 			<script type="text/javascript" src="https://fuyon.github.io/123456/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://fuyon.github.io/123456/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
@@ -90,7 +90,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://fuyon.github.io/123456/wp-includes/js/wp-util.min.js?ver=5.9.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /*  */
-var userProfileL10n = {"user_id":"0","nonce":"2dd18f0d0f"};
+var userProfileL10n = {"user_id":"0","nonce":"9f56a2c74a"};
 /*  */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
